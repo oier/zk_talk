@@ -35,6 +35,6 @@ The run it from several terminals
 
 ```
 mvn exec:java  -Dexec.args="node01 localhost:2181"
-mvn exec:java  -Dexec.args="node02 localhost:2181"
-mvn exec:java  -Dexec.args="node03 localhost:2181"
+mvn exec:java  -Dexec.args="node02 localhost:2182"
+mvn exec:java  -Dexec.args="node03 localhost:2183"
 ```
