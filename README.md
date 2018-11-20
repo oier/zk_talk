@@ -35,4 +35,4 @@ docker run --link zk_talk_zoo1_1:zk1  --link zk_talk_zoo2_1:zk2  --link zk_talk_
 
 and then start the zkCli client
 ```
-zkCli.sh --server zk1
+zkCli.sh -server zk1
